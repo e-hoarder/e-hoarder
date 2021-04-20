@@ -9,7 +9,7 @@
 - I am mostly joining github to learn git and to keep track of my 'projects' by which I mean actually finishing something for once in my life
 ## Goals
 ### Long-term
-- Finishing project euler at some point
+- Answering all project euler questions at some point
 - Gaining basic competency in at least one programming language
 ### Short-term
 - Making a github account
